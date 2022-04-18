@@ -1,16 +1,17 @@
 # shop_app
+ <h3>to Know About this App </h3>
+ 1. Made For Education Purpose Only.<br>
+ 4. multi vendor Platform.<br>
+ 5. Uses Provider state managment.<br>
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src = https://user-images.githubusercontent.com/79464470/163846729-ca056f72-4b98-4600-9fd3-00e01bb10302.png width=400/>
+<img src = https://user-images.githubusercontent.com/79464470/163846741-f9347e62-ed0b-4215-8975-13b7d5a2e675.png width=400/>
+<img src =  https://user-images.githubusercontent.com/79464470/163846747-29966958-4893-4add-8244-9b7387c5ebd7.png width=400/>
+<img src =  https://user-images.githubusercontent.com/79464470/163846756-55f53c8a-e488-41cf-a20f-5e63ccbfecec.png width=400/>
+<img src =  https://user-images.githubusercontent.com/79464470/163846760-329b6418-502e-4cac-8758-588558dc7ab2.png width=400/>
+<img src = https://user-images.githubusercontent.com/79464470/163846767-bca6999e-3c57-4607-9116-0c3c724bab64.png width=400/>
+<img src =  https://user-images.githubusercontent.com/79464470/163846775-c6cf26d3-6595-4c37-9b77-8b4e4c8ca16f.png width=400/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
