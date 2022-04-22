@@ -1,6 +1,6 @@
 # shop_app
  <h3>to Know About this App </h3>
- 1. Made For Education Purpose Only.<br>
+ 1. Made For Education Purpose.<br>
  2. multi vendor Platform.<br>
  3. Uses Provider state managment.<br>
  4. not Completed.<br>
