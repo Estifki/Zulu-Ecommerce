@@ -1,9 +1,14 @@
-# shop_app
- <h2>Why this app is made?</h2>
- <h4>1. Made For Education Purpose.</h4>
- <h4>2. multi vendor Platform.</h4>
- <h4>3. Provider state managment.</h4>
- <h4>4. With Update/Customization, Can be Used as Simple Shop App.
+# Zulu Shop App
+ <h4>Made For Education Purpose. don't forget to get all Packages!</h4>
+ <h3>This app includes</h3>
+ -> 7+ Screens/Ui.<br>
+ -> Add,edit & delete Product.<br>
+ -> Cart.<br>
+ -> Order summary.<br>
+ -> Add to favorite functionality.<br>
+ -> Used Provider state managment.<br>
+ -> Multi vendor Platform.<br>
+ -> With Update/Customization, Can be Used as Simple Shop App.<br>
 
 ## Getting Started
 
